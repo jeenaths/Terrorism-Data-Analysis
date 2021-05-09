@@ -1,2 +1,12 @@
-# Terrorism-Data-Analysis
-GRIP Internship - Sparks Foundation
+# Exploratory Data Analysis - Terrorism
+
+**(Level - Intermediate)**
+
+● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+**Problem Statement**
+● As a security/defense analyst, try to find out the hot zone of terrorism.
+
+● What all security issues and insights you can derive by EDA?
+
+**Thanks & Regards**
+Jeenath S
